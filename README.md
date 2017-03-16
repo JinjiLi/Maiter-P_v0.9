@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Maiter-P
-Maiter-P is an Parallel Asynchronous Graph Processing Framework for Delta-based Accumulative Iterative Computation.
+Maiter-P is an Disk-Based Parallel Asynchronous Graph Processing Framework for Delta-based Accumulative Iterative Computation.
 =======
 >>>>>>> my third version
 
